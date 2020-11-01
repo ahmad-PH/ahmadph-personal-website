@@ -37,6 +37,12 @@ subtitle = ""
   icon_pack = "custom"
   name = "javascript"
   description = "70%"
+  
+[[feature]]
+  icon = "indesign"
+  icon_pack = "custom"
+  name = "Adobe InDesign"
+  description = "Intermediate"
 
 # Uncomment to use emoji icons.
 # [[feature]]

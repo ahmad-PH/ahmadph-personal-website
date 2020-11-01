@@ -1,37 +1,31 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ahmad Pourihosseini
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Computer Engineering Graduate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Tehran
+  url: "https://ut.ac.ir/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: machine learning and software engineering enthusiast!
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Deep Learning
+- Computer Vision
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.Sc. in Computer Engineering
+    institution: University of Tehran
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,24 +34,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:seyedahmadpourihosseini@gmail.com' # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/ahmad-pourihosseini/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ahmad-PH
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "seyedahmadpourihosseini@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,6 +61,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a fresh graduate with a bachelor's degree in computer engineering from [University of Tehran](https://ut.ac.ir/en) with a GPA of 19.41. Through my years as an undergraduate, I have become quite interested in artificial intelligence, and that's why I have spent the last few years trying to gain as much experience in the field as possible. This started with attending two summer schools on deep learning in the summers of 2017 and 2018, continued with auditing Andrew Ng's deep learning specialization on Coursera, was followed by a machine learning internship at [Sensifai](https://sensifai.com/) in the following year, and finally led me to choose a topic related to adversarial examples as the subject for my bachelor's project in the final semester. Currently, I am a researcher at the [University of Tehran Science and Technology Park (UTSTP)](https://ut.ac.ir/en/page/785/science-and-technology-park) working on the application of deep learning on combinatorial optimization problems on graphs.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Besides artificial intelligence, I also love developing software and in addition to the coursework at university, I practice it via internships and small projects whenever I find the time to. In my free time, I like playing video games, playing chess, reading epic fantasies, and occasionally reading about psychology and philosophy. 

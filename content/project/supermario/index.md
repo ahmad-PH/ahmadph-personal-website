@@ -1,6 +1,6 @@
 ---
 title: Super Mario
-summary: A minimal C++ implementation of the famous SuperMario game, using [SDL2](https://www.libsdl.org/). I was the TA of the course and the project would be shown to students as an example of good design.
+summary: A minimal C++ implementation of the famous SuperMario game, using [SDL2](https://www.libsdl.org/). This was a course project for the Advanced Programming course at the University of Tehran, and I was the TA designing the project. The project would be shown to students as an example of good design.
 tags:
 - Demo
 date: "2017-04-27T00:00:00Z"

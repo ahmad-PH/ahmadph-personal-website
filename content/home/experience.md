@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -17,19 +17,18 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Research Assistant"
+  company = "Intelligent Information Systems Lab at the University of Tehran"
+  company_url = "https://ut.ac.ir/en"
+  location = "Tehran, Iran"
+  date_start = "2018-03-01"
+  date_end = "2018-08-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+    I helped the main researcher in an optimization problem by writing code for and experimenting with different
+    optimization algorithms. The result of this optimization would determine how much improvement his text retrieval
+    method, which was a variation of the positional language model (PLM), offered over the existing ones.
   """
 
 [[experience]]

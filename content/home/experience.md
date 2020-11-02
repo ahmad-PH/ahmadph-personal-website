@@ -18,18 +18,6 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
-  title = "Research Assistant"
-  company = "Intelligent Information Systems Lab at the University of Tehran"
-  company_url = "http://eceold.ut.ac.ir/iis/people.html"
-  location = "Tehran, Iran"
-  date_start = "2018-03-01"
-  date_end = "2018-08-01"
-  description = """
-  I helped the researcher in an optimization problem by writing code for and experimenting with different
-  optimization algorithms. The result of this optimization would determine how much improvement his text retrieval
-  method, which was a variation of the positional language model (PLM), offered over the existing ones.
-  """
 
 [[experience]]
   title = "Research Assistant"
@@ -44,5 +32,19 @@ date_format = "Jan 2006"
   trained using those perturbations. This research was also the subject of my bachelor's thesis, under the supervision
   of [Dr.Araabi](https://ece.ut.ac.ir/en/~araabi).
   """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Intelligent Information Systems Lab at the University of Tehran"
+  company_url = "http://eceold.ut.ac.ir/iis/people.html"
+  location = "Tehran, Iran"
+  date_start = "2018-03-01"
+  date_end = "2018-08-01"
+  description = """
+  I helped the researcher in an optimization problem by writing code for and experimenting with different
+  optimization algorithms. The result of this optimization would determine how much improvement his text retrieval
+  method, which was a variation of the positional language model (PLM), offered over the existing ones.
+  """
+
 
 +++

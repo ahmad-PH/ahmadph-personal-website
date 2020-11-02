@@ -1,5 +1,5 @@
 ---
-title: notMNIST character recognizer
+title: NotMNIST Character Recognizer
 summary: A neural network for the classification of letters A-J from the [notMNIST](http://yaroslavvb.blogspot.com/2011/09/notmnist-dataset.html) dataset, built from scratch using Python and without the use of any external libraries.
 tags:
 - Demo

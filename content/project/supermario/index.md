@@ -1,6 +1,7 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Super Mario
+summary: A minimal C++ implementation of the famous SuperMario game, using SDL 2 . I was the TA of the course and the
+project would be shown to students as an example of good design.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"

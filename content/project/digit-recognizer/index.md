@@ -1,6 +1,7 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Digit Recognizer from Scratch
+summary: A neural network for the classification of MNIST-like digits, built from scratch using Python and without the use
+of any external libraries.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"

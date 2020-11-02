@@ -51,6 +51,12 @@ subtitle = ""
   description = "Intermediate - 60%"
 
 [[feature]]
+  icon = "jupyter"
+  icon_pack = "custom"
+  name = "Jupyter Notebook"
+  description = "Advanced - 80%"
+
+[[feature]]
   icon = "indesign"
   icon_pack = "custom"
   name = "Adobe InDesign"

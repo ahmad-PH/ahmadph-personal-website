@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2018-03-01"
   date_end = "2018-08-01"
   description = """
-    I helped the main researcher in an optimization problem by writing code for and experimenting with different
+    I helped the researcher in an optimization problem by writing code for and experimenting with different
     optimization algorithms. The result of this optimization would determine how much improvement his text retrieval
     method, which was a variation of the positional language model (PLM), offered over the existing ones.
   """

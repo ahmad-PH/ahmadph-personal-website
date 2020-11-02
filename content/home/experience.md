@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "Intelligent Information Systems Lab at the University of Tehran"
-  company_url = "https://ut.ac.ir/en"
+  company_url = "http://eceold.ut.ac.ir/iis/people.html"
   location = "Tehran, Iran"
   date_start = "2018-03-01"
   date_end = "2018-08-01"
@@ -32,12 +32,17 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Assistant"
+  company = "Machine Learning and Computational Modeling Lab at the University of Tehran"
+  company_url = "http://mlcm.ut.ac.ir/"
+  location = "Tehran, Iran"
+  date_start = "2019-02-01"
+  date_end = "2020-02-01"
+  description = """
+  I worked with a graduate student on a method to increase the diversity of the adversarial perturbations generated
+  by a specific adversarial generator, in order to increase the robustness of adversarial defense modules that are
+  trained using those perturbations. This research was also the subject of my bachelor's thesis, under the supervision
+  of [Dr.Araabi](https://ece.ut.ac.ir/en/~araabi).
+  """
 
 +++

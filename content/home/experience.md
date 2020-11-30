@@ -51,9 +51,10 @@ date_format = "Jan 2006"
   date_start = "2019-06-01"
   date_end = "2019-08-01"
   description = """
-  I was tasked with the preparation of an instance of [Coral Dev Board](https://coral.withgoogle.com/docs/dev-board/get-started/) 
-  for running a set of object classification and detection models in an offline setting. The board would receive its inputs via camera
-  and display the results on a monitor. This internship helped me better understand the practical sides of machine learning.
+  My task was to set up a real-time object detection pipeline on an instance of [Coral Dev Board](https://coral.ai/products/dev-board/),
+  which is a piece of hardware specialized for prototyping on-device machine learning products. The input and output were both handled
+  as video streams and were received and dispalyed on external devices. This internship helped me better understand the
+  practical aspects of machine learning that happen in real-world settings.
   """
 
 

@@ -23,6 +23,23 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
+  title = "Deep Learning Specialization"
+  url = "https://www.coursera.org/specializations/deep-learning"
+  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/BT2T9NP43KLV"
+  date_start = "2020-12-24"
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Sequence Models"
+  url = "https://www.coursera.org/learn/nlp-sequence-models"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/KB8CHURAK9VJ"
+  date_start = "2020-12-23"
+
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
   title = "Convolutional Neural Networks"
   url = "https://www.coursera.org/learn/convolutional-neural-networks"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/FLA3M4FRVDAQ"

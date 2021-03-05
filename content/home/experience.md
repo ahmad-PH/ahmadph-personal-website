@@ -20,8 +20,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Assistant"
-  company = "University of Tehran Science and Technology Park"
-  company_url = "https://ut.ac.ir/en/page/785/science-and-technology-park"
+  company = "Data Analytics Lab at the University of Tehran"
+  company_url = ""
   location = "Tehran, Iran"
   date_start = "2020-06-01"
   description = """

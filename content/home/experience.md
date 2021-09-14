@@ -24,8 +24,9 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Tehran, Iran"
   date_start = "2020-06-01"
+  date_end = "2021-08-01"
   description = """
-  I am currently working on the application of deep learning on a combinatorial optimization problem on graphs.
+  Worked on the application of pointer networks on a combinatorial optimization problem on graphs using PyTorch and NetworkX.
   """
 
 

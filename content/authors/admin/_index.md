@@ -6,12 +6,12 @@ title: Ahmad Pourihosseini
 superuser: true
 
 # Role/position
-role: Computer Engineering Graduate
+role: Computer Science Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Tehran
-  url: "https://ut.ac.ir/en"
+- name: University of Toronto
+  url: "https://www.utoronto.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: machine learning and software engineering enthusiast!
@@ -19,13 +19,17 @@ bio: machine learning and software engineering enthusiast!
 interests:
 - Machine Learning
 - Deep Learning
-- Computer Vision
+- Natural Language Processing
 
 education:
   courses:
-  - course: B.Sc. in Computer Engineering
+  - course: MSc in Applied Computing
+    institution: University of Toronto
+    year: 2021-present
+    
+  - course: BSc in Computer Engineering
     institution: University of Tehran
-    year: 2020
+    year: 2015-2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

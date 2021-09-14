@@ -14,29 +14,6 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = "python"
-  icon_pack = "custom"
-  name = "Python"
-  description = "Advanced - 80%"  
-
-[[feature]]
-  icon = "c++"
-  icon_pack = "custom"
-  name = "C/C++"
-  description = "Advanced - 80%"
-  
-[[feature]]
-  icon = "js"
-  icon_pack = "custom"
-  name = "javascript"
-  description = "Advanced - 70%"
-
-[[feature]]
-  icon = "java"
-  icon_pack = "custom"
-  name = "Java"
-  description = "Intermediate - 60%"
   
 [[feature]]
   icon = "pytorch"
@@ -48,7 +25,13 @@ subtitle = ""
   icon = "tensorflow"
   icon_pack = "custom"
   name = "Tensorflow"
-  description = "Intermediate - 60%"
+  description = "Intermediate - 50%"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "custom"
+  name = "Python"
+  description = "Professional - 90%"  
 
 [[feature]]
   icon = "jupyter"
@@ -56,6 +39,24 @@ subtitle = ""
   name = "Jupyter Notebook"
   description = "Advanced - 80%"
 
+[[feature]]
+  icon = "c++"
+  icon_pack = "custom"
+  name = "C/C++"
+  description = "Professional - 90%"
+  
+[[feature]]
+  icon = "js"
+  icon_pack = "custom"
+  name = "javascript"
+  description = "Advanced - 80%"
+
+[[feature]]
+  icon = "java"
+  icon_pack = "custom"
+  name = "Java"
+  description = "Intermediate - 60%"
+  
 [[feature]]
   icon = "indesign"
   icon_pack = "custom"

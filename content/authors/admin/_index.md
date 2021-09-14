@@ -25,11 +25,11 @@ education:
   courses:
   - course: MSc in Applied Computing
     institution: University of Toronto
-    year: 2021-present
+    year: 2021 - present
     
   - course: BSc in Computer Engineering
     institution: University of Tehran
-    year: 2015-2020
+    year: 2015 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

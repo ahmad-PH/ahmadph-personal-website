@@ -69,8 +69,4 @@ I am an MScAC student at the University of Toronto, specializing in machine lear
 
 I love writing software and engineering complex systems, but I have learned that there exists a range of important problems where traditional software development would fall short. This is why I have been studying machine learning for the past few years and the reason why I am pursuing a graduate degree in this challenging yet rewarding field.
 
-I am an MScAC student at the University of Toronto, specializing in machine learning. The AC in my program title stands for “Applied Computing”, which means that instead of a thesis, I will be working on an applied research project in the form of an 8-month internship. This is great because I love working on practical, real-world problems where I can see how my work is helping others.
-
-I love writing software and engineering complex systems, but I have learned that there exists a range of important problems where traditional software development would fall short. This is why I have been studying machine learning for the past few years and the reason why I am pursuing a graduate degree in this challenging yet rewarding field.
-
 Currently, I am looking for a full-time machine learning internship where I can apply my academic training and professional experience in the form of an applied research project.

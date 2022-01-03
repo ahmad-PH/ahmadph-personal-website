@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:seyedahmadpourihosseini@gmail.com' # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ahmadph@cs.toronto.edu' # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ahmad-pourihosseini/

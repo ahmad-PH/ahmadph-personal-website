@@ -71,5 +71,3 @@ I am an MScAC student at the University of Toronto, specializing in machine lear
 I love writing software and engineering complex systems, but I have learned that is a range of important problems where traditional software development would fall short. This is why I have been studying machine learning for the past few years and the reason why I am pursuing a graduate degree in this challenging yet rewarding field.
 
 I will be starting my internship this summer at Samsung where I will work on a natural language processing project under the supervision of [Dr. Afsaneh Fazly](https://www.linkedin.com/in/afsaneh-fazly-98538b4/?originalSubdomain=ca).
-
-#Currently, I am looking for a full-time machine learning internship where I can apply my academic training and professional experience in the form of an applied research project.

@@ -37,48 +37,4 @@ date_format = "Jan 2006"
   date_start = "2022-09-17"
 
 +++
-  
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Sequence Models"
-  url = "https://www.coursera.org/learn/nlp-sequence-models"
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/KB8CHURAK9VJ"
-  date_start = "2020-12-23"
-
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Convolutional Neural Networks"
-  url = "https://www.coursera.org/learn/convolutional-neural-networks"
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/FLA3M4FRVDAQ"
-  date_start = "2020-12-21"
-  
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Structuring Machine Learning Projects"
-  url = "https://www.coursera.org/learn/machine-learning-projects"
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/R2P9F82TNELD"
-  date_start = "2020-10-01"
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
-  url = "https://www.coursera.org/learn/deep-neural-network"
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/E27EW575R2F4"
-  date_start = "2020-08-01"
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = "https://www.coursera.org/learn/neural-networks-deep-learning"
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/9AUHM569SGYT"
-  date_start = "2020-07-01"
-
-
 

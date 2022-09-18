@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   title = "Introduction to Git and GitHub"
   url = "https://www.coursera.org/learn/introduction-git-github"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/FLPAL8XSE9ML"
-  date_start = "2022-09-00"
+  date_start = "2022-09-17"
 
 
   

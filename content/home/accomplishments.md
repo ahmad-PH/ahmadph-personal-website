@@ -31,6 +31,15 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
+  title = "Introduction to Git and GitHub"
+  url = "https://www.coursera.org/learn/introduction-git-github"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/FLPAL8XSE9ML"
+  date_start = "2022-09-00"
+  
+<!-- 
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
   title = "Sequence Models"
   url = "https://www.coursera.org/learn/nlp-sequence-models"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/KB8CHURAK9VJ"
@@ -68,6 +77,6 @@ date_format = "Jan 2006"
   url = "https://www.coursera.org/learn/neural-networks-deep-learning"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/9AUHM569SGYT"
   date_start = "2020-07-01"
-
+ -->
 
 +++

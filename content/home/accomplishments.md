@@ -36,9 +36,9 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/FLPAL8XSE9ML"
   date_start = "2022-09-17"
 
-
++++
   
-<!-- 
+
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
@@ -79,6 +79,6 @@ date_format = "Jan 2006"
   url = "https://www.coursera.org/learn/neural-networks-deep-learning"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/9AUHM569SGYT"
   date_start = "2020-07-01"
- -->
 
-+++
+
+

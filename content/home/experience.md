@@ -18,6 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[experience]]
+  title = "Machine Learning Intern"
+  company = "Samsung AI Centre - Toronto"
+  company_url = "https://research.samsung.com/aicenter_toronto"
+  location = "Toronto, ON, Canada"
+  date_start = "2022-05-01"
+  date_end = "2022-12-30"
+  description = """
+  Working on an NLP project involving dependency parsing, transformers, and abstract meaning representations.
+  """
+
+
 [[experience]]
   title = "Research Assistant"
   company = "Data Analytics Lab at the University of Tehran"
@@ -28,7 +41,6 @@ date_format = "Jan 2006"
   description = """
   Worked on the application of pointer networks on a combinatorial optimization problem on graphs using PyTorch and NetworkX.
   """
-
 
 [[experience]]
   title = "Research Assistant"
@@ -45,7 +57,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Intern"
+  title = "Machine Learning Intern"
   company = "Sensifai"
   company_url = "https://sensifai.com"
   location = "Tehran, Iran"
@@ -74,7 +86,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Back-end Developer"
+  title = "Backend Developer"
   company = "Boghche"
   company_url = "https://www.instagram.com/boghche.ir/?hl=en"
   location = "Tehran, Iran"

@@ -17,9 +17,9 @@ organizations:
 bio: machine learning and software engineering enthusiast!
 
 interests:
+- Software Engineering
 - Machine Learning
 - Natural Language Processing
-- Computer Vision
 
 
 education:

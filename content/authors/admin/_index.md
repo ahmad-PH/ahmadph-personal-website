@@ -66,8 +66,4 @@ user_groups:
 - Visitors
 ---
 
-I am an MScAC student at the University of Toronto, specializing in machine learning. The AC in my program title stands for “Applied Computing”, which means that instead of a thesis, I will be working on an applied research project in the form of an 8-month internship. I chose this program because I love working on practical, real-world problems where I can see the effect of my work more directly.
-
-I love writing software and engineering complex systems, but I have learned that is a range of important problems where traditional software development would fall short. This is why I have been studying machine learning for the past few years and the reason why I am pursuing a graduate degree in this challenging yet rewarding field.
-
-I am currently a machine learning intern at the [Samsung Toronto AI Research Centre (SAIC)](https://research.samsung.com/aicenter_toronto) where I will work on a natural language processing project under the supervision of [Dr. Fazly](https://www.linkedin.com/in/afsaneh-fazly-98538b4/?originalSubdomain=ca) and [Dr. Rudcicz](https://www.cs.toronto.edu/~frank/) as my industry and academic supervisors, respectively.
+I am an MScAC student at the University of Toronto, in the computer science concentration. I am currently working on a natural language processing project as a machine learning intern at the [Samsung Toronto AI Research Centre (SAIC)](https://research.samsung.com/aicenter_toronto) under the supervision of [Dr. Fazly](https://www.linkedin.com/in/afsaneh-fazly-98538b4/?originalSubdomain=ca) and [Dr. Rudcicz](https://www.cs.toronto.edu/~frank/) as my industry and academic supervisors, respectively. I chose the MScAC program because I love working on practical, real-world problems in which I can see the effect of my work more directly, and the applied research internship component of this program was a great fit for me.

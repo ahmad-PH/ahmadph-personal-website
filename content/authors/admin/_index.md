@@ -6,27 +6,26 @@ title: Ahmad Pourihosseini
 superuser: true
 
 # Role/position
-role: Computer Science Student
+role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Toronto
-  url: "https://www.utoronto.ca/"
+- name: BlueCat
+  url: "https://bluecatnetworks.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: machine learning and software engineering enthusiast!
+bio: software engineering and machine learning enthusiast!
 
 interests:
 - Software Engineering
+- Web development
 - Machine Learning
-- Natural Language Processing
-
 
 education:
   courses:
   - course: MSc in Applied Computing
     institution: University of Toronto
-    year: 2021 - present
+    year: 2021 - 2023
     
   - course: BSc in Computer Engineering
     institution: University of Tehran
@@ -39,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ahmadph@cs.toronto.edu' # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:a.pourihosseini@gmail.com' # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ahmad-pourihosseini/
@@ -54,7 +53,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "seyedahmadpourihosseini@gmail.com"
+email: "a.pourihosseini@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

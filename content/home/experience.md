@@ -27,8 +27,7 @@ date_format = "Jan 2006"
   date_start = "2023-03-27"
   date_end = ""
   description = """
-  • Implementing new features and fixing reported bugs in the core software product, using Java.
-  • Pitched the idea for, planned, and implemented a tool to boost developer productivity by improving a commonly used workflow, earning positive feedback from various levels of the organization.
+  Implementing new features and fixing reported bugs in the core software product. Pitched the idea for, planned, and implemented a tool to boost developer productivity by improving a commonly used workflow, earning positive feedback from various levels of the organization.
   """
 
 [[experience]]

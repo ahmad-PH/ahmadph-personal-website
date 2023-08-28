@@ -20,6 +20,18 @@ date_format = "Jan 2006"
 
 
 [[experience]]
+  title = "Software Engineer"
+  company = "BlueCat"
+  company_url = "https://bluecatnetworks.com/"
+  location = "Toronto, ON, Canada"
+  date_start = "2023-03-27"
+  date_end = ""
+  description = """
+  • Implementing new features and fixing reported bugs in the core software product, using Java.
+  • Pitched the idea for, planned, and implemented a tool to boost developer productivity by improving a commonly used workflow, earning positive feedback from various levels of the organization.
+  """
+
+[[experience]]
   title = "Machine Learning Intern"
   company = "Samsung AI Centre - Toronto"
   company_url = "https://research.samsung.com/aicenter_toronto"
@@ -27,9 +39,19 @@ date_format = "Jan 2006"
   date_start = "2022-05-01"
   date_end = "2022-12-30"
   description = """
-  Working on an NLP project involving dependency parsing, transformers, and abstract meaning representations.
+  Contributed to enhancing the performance of the state-of-the-art fine-grained dependency parser in the cooking domain, resulting in a 7.8 edge prediction F1 score increase, using HuggingFace and AllenNLP.
   """
 
+[[experience]]
+  title = "Teaching Assistant"
+  company = "University of Toronto"
+  company_url = "https://www.utoronto.ca/"
+  location = "Toronto, ON, Canada"
+  date_start = "2021-09-01"
+  date_end = "2022-04-30"
+  description = """
+  TAed for the course: Programming on the Web. This role included hands-on lab sessions, meeting with students to discuss projects, and grading assignments.
+  """
 
 [[experience]]
   title = "Research Assistant"
@@ -66,21 +88,6 @@ date_format = "Jan 2006"
   description = """
   I worked on setting up an object detection/classification pipeline on a [Coral Dev Board](https://coral.ai/products/dev-board/). I learned a great deal about running machine learning models in resource-constrained settings and the methods used to address the challenges involved, such as model quantization. I worked mainly with TensorFlow Lite and open-source implementations of popular model architectures.
   """
-
-
-[[experience]]
-  title = "Research Assistant"
-  company = "Intelligent Information Systems Lab at the University of Tehran"
-  company_url = "http://eceold.ut.ac.ir/iis/people.html"
-  location = "Tehran, Iran"
-  date_start = "2018-03-01"
-  date_end = "2018-08-01"
-  description = """
-  I helped the researcher in an optimization problem by writing code for and experimenting with different
-  optimization algorithms. The result of this optimization would determine how much improvement his text retrieval
-  method, which was a variation of the positional language model (PLM), offered over the existing ones.
-  """
-
 
 [[experience]]
   title = "Backend Developer"

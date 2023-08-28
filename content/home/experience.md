@@ -64,10 +64,7 @@ date_format = "Jan 2006"
   date_start = "2019-06-01"
   date_end = "2019-08-01"
   description = """
-  My task was to set up a real-time object detection pipeline on an instance of [Coral Dev Board](https://coral.ai/products/dev-board/),
-  which is a piece of hardware specialized for prototyping on-device machine learning products. The input and output were both handled
-  as video streams and were received and dispalyed on external devices. This internship helped me better understand the
-  practical aspects of machine learning that happen in real-world settings.
+  I worked on setting up an object detection/classification pipeline on a [Coral Dev Board](https://coral.ai/products/dev-board/). I learned a great deal about running machine learning models in resource-constrained settings and the methods used to address the challenges involved, such as model quantization. I worked mainly with TensorFlow Lite and open-source implementations of popular model architectures.
   """
 
 
@@ -93,9 +90,7 @@ date_format = "Jan 2006"
   date_start = "2017-06-01"
   date_end = "2017-08-01"
   description = """
-  I was responsible for the development of a Telegram bot that would receive orders from customers and register
-  them in the central system. This job helped me gain a great degree of knowledge in back-end web development.
+  I developed a Telegram bot, which would provide another way for customers to access the company's services in addition to its Android & ios applications. People would have access to all of the essential functionality of the Android & ios applications, but it would have the advantage of no installation requirement, platform independence, and ease of use for customers with less technical understanding. This internship taught me a great deal about web development, especially back-end web development, Node.js, and MongoDB.
   """
-
 
 +++

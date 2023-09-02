@@ -27,7 +27,9 @@ date_format = "Jan 2006"
   date_start = "2023-03-27"
   date_end = ""
   description = """
-  Implementing new features and fixing reported bugs in the core software product. Pitched the idea for, planned, and implemented a tool to boost developer productivity by improving a commonly used workflow, earning positive feedback from various levels of the organization.
+  Implementing new features and improving the core software product. After noticing an opportunity to
+  enhance a workflow used by all developers, I took the initiative to pitch my solution to
+  management, then plan and implement it in just three weeks. The solution, which required learning a new programming language and a new build system, has earned positive feedback from various levels of the organization.
   """
 
 [[experience]]
@@ -38,7 +40,7 @@ date_format = "Jan 2006"
   date_start = "2022-05-01"
   date_end = "2022-12-30"
   description = """
-  Contributed to enhancing the performance of the state-of-the-art fine-grained dependency parser in the cooking domain, resulting in a 7.8 edge prediction F1 score increase, using HuggingFace and AllenNLP.
+  Improved the performance of the state-of-the-art fine-grained dependency parser in the cooking domain, in a collaborative effort that resulted in a 7.8 edge prediction F1 score increase, using HuggingFace and AllenNLP.
   """
 
 [[experience]]

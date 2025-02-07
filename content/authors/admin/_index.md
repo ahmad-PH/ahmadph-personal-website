@@ -10,8 +10,8 @@ role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: BlueCat
-  url: "https://bluecatnetworks.com/"
+- name: Instacart
+  url: "https://www.instacart.com/company/about-us"
 
 # Short bio (displayed in user profile at end of posts)
 bio: software engineering and machine learning enthusiast!

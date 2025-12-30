@@ -20,16 +20,30 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Software Engineer"
+  title = "Backend Software Engineer"
+  company = "Instacart"
+  company_url = "https://www.instacart.com/"
+  location = "Toronto, ON, Canada"
+  date_start = "2024-09-04"
+  date_end = ""
+  description = """
+  - Owned migration of Sponsored Product APIs from Ruby to a Go microservice and the team's Active Record dependencies to an in-house Go query builder, using shadow testing and launching with zero incidents, unblocking infrastructure switchover.
+  - Built an Agentic AI Slack bot for on-call incident triage using ADK, with RAG to search over the codebase context, and an MCP server for the company's feature variants service, to improve incident response time and developer productivity.
+  - Investigated and resolved a major revenue-impacting issue in data pipelines, in a cross-team collaboration, through extensive SQL analysis in Snowflake and visualizations in Mode dashboards, with comprehensive data-health checks to prevent regressions.
+  - Launched specialized promotional campaigns tailored to a specific partner's needs with custom backend logic, collaborating across Sales, Product, and Data Science, resulting in the partner doubling their ads and promotions budget investment with Instacart.
+  """
+
+[[experience]]
+  title = "Backend Software Engineer"
   company = "BlueCat"
   company_url = "https://bluecatnetworks.com/"
   location = "Toronto, ON, Canada"
   date_start = "2023-03-27"
-  date_end = ""
+  date_end = "2024-09-03"
   description = """
-  Implementing new features and improving the core software product. After noticing an opportunity to
-  enhance a workflow used by all developers, I took the initiative to pitch my solution to
-  management, then plan and implement it in just three weeks. The solution, which required learning a new programming language and a new build system, has earned positive feedback from various levels of the organization.
+  - Developed and enhanced backend features in the core DDI (DNS, DHCP, IP Management) product, using Java & C++.
+  - Contributed to company-wide security initiative to upgrade all libraries, leading the PowerMock to Mockito 5 transition, managing tickets to distribute work across the team and onboarding new members, and contributing to the Hibernate 5 to 6 migration.
+  - Pitched and built a test flakiness dashboard embedded in Jenkins reports, enabling engineers to quickly identify unreliable tests and reduce time spent investigating false-positive failures, receiving company-wide positive feedback.
   """
 
 [[experience]]

@@ -27,6 +27,7 @@ date_format = "Jan 2006"
   date_start = "2024-09-04"
   date_end = ""
   description = """
+  <br>
   <ul>
   <li>Owned migration of Sponsored Product APIs from Ruby to a Go microservice and the team's Active Record dependencies to an in-house Go query builder, using shadow testing and launching with zero incidents, unblocking infrastructure switchover.</li>
   <li>Built an Agentic AI Slack bot for on-call incident triage using ADK, with RAG to search over the codebase context, and an MCP server for the company's feature variants service, to improve incident response time and developer productivity.</li>
@@ -43,6 +44,7 @@ date_format = "Jan 2006"
   date_start = "2023-03-27"
   date_end = "2024-09-03"
   description = """
+  <br>
   <ul>
   <li>Developed and enhanced backend features in the core DDI (DNS, DHCP, IP Management) product, using Java & C++.</li>
   <li>Contributed to company-wide security initiative to upgrade all libraries, leading the PowerMock to Mockito 5 transition, managing tickets to distribute work across the team and onboarding new members, and contributing to the Hibernate 5 to 6 migration.</li>

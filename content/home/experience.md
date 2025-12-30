@@ -27,10 +27,12 @@ date_format = "Jan 2006"
   date_start = "2024-09-04"
   date_end = ""
   description = """
+
   - Owned migration of Sponsored Product APIs from Ruby to a Go microservice and the team's Active Record dependencies to an in-house Go query builder, using shadow testing and launching with zero incidents, unblocking infrastructure switchover.
   - Built an Agentic AI Slack bot for on-call incident triage using ADK, with RAG to search over the codebase context, and an MCP server for the company's feature variants service, to improve incident response time and developer productivity.
   - Investigated and resolved a major revenue-impacting issue in data pipelines, in a cross-team collaboration, through extensive SQL analysis in Snowflake and visualizations in Mode dashboards, with comprehensive data-health checks to prevent regressions.
   - Launched specialized promotional campaigns tailored to a specific partner's needs with custom backend logic, collaborating across Sales, Product, and Data Science, resulting in the partner doubling their ads and promotions budget investment with Instacart.
+  
   """
 
 [[experience]]
@@ -41,9 +43,11 @@ date_format = "Jan 2006"
   date_start = "2023-03-27"
   date_end = "2024-09-03"
   description = """
+
   - Developed and enhanced backend features in the core DDI (DNS, DHCP, IP Management) product, using Java & C++.
   - Contributed to company-wide security initiative to upgrade all libraries, leading the PowerMock to Mockito 5 transition, managing tickets to distribute work across the team and onboarding new members, and contributing to the Hibernate 5 to 6 migration.
   - Pitched and built a test flakiness dashboard embedded in Jenkins reports, enabling engineers to quickly identify unreliable tests and reduce time spent investigating false-positive failures, receiving company-wide positive feedback.
+
   """
 
 [[experience]]

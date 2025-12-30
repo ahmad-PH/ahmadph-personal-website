@@ -27,7 +27,7 @@ education:
     institution: University of Toronto
     year: 2021 - 2023
     
-  - course: BSc in Computer Software Engineering
+  - course: BSc in Software Engineering
     institution: University of Tehran
     year: 2015 - 2020
 
